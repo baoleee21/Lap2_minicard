@@ -31,7 +31,6 @@ The methodology used in the lab about programming with Flutter involves a combin
 •	Present the results of the lab.
 •	Include screenshots of the app.
 
- ![image](https://github.com/user-attachments/assets/265a159c-123c-4900-981d-725076050dd9)
 
 5.	Discussion
    
